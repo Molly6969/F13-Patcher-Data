@@ -3,10 +3,6 @@
   "pak_url": "https://archive.org/download/pakchunk0-ps4/pakchunk0-ps4.pak",
   "zip_url": "https://archive.org/download/test13_202605/test13.zip",
   "hosts": {
-    "archive": {
-      "pak_url": "https://archive.org/download/pakchunk0-ps4/pakchunk0-ps4.pak",
-      "zip_url": "https://archive.org/download/test13_202605/test13.zip"
-    },
     "gdrive": {
       "pak_url": "",
       "zip_url": ""
