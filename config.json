@@ -1,5 +1,19 @@
 {
   "latest_version": "1.2",
   "pak_url": "https://archive.org/download/pakchunk0-ps4/pakchunk0-ps4.pak",
-  "zip_url": "https://archive.org/download/test13_202605/test13.zip"
+  "zip_url": "https://archive.org/download/test13_202605/test13.zip",
+  "hosts": {
+    "archive": {
+      "pak_url": "https://archive.org/download/pakchunk0-ps4/pakchunk0-ps4.pak",
+      "zip_url": "https://archive.org/download/test13_202605/test13.zip"
+    },
+    "gdrive": {
+      "pak_url": "",
+      "zip_url": ""
+    },
+    "mega": {
+      "pak_url": "https://mega.nz/file/lJ0mCSZS#JYCgAZip3tp91fr_6rcvJDEWBcmWP_ouSlIIiB_v57Y",
+      "zip_url": "https://mega.nz/file/kQtR2JBB#7PjSVlVcH7gaj2vjPF4-1U-kq49FTrdxmNfCzHv-S60"
+    }
+  }
 }
