@@ -1,7 +1,7 @@
 {
   "latest_version": "1.2",
   "pak_url": "https://archive.org/download/pakchunk0-ps4/pakchunk0-ps4.pak",
-  "zip_url": "https://archive.org/download/test13_202605/test13.zip",
+  "zip_url": "https://archive.org/download/sandbox-ui-20261114/SandboxUI-20261114.zip",
   "hosts": {
     "gdrive": {
       "pak_url": "https://drive.google.com/file/d/1yY7jvY-4qnCaMAx-nnK_rKJMhmnNIvGB/view?usp=sharing",
