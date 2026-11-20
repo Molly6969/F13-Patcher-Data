@@ -4,12 +4,12 @@
   "zip_url": "https://archive.org/download/sandbox-ui-20261114/SandboxUI-20261114.zip",
   "hosts": {
     "gdrive": {
-      "pak_url": "https://drive.google.com/file/d/1yY7jvY-4qnCaMAx-nnK_rKJMhmnNIvGB/view?usp=sharing",
-      "zip_url": "https://drive.google.com/file/d/1_1MopUkvNhjNsYarwftDWfAPx3W8_uog/view?usp=sharing"
+      "pak_url": "",
+      "zip_url": ""
     },
     "mega": {
-      "pak_url": "https://mega.nz/file/lJ0mCSZS#JYCgAZip3tp91fr_6rcvJDEWBcmWP_ouSlIIiB_v57Y",
-      "zip_url": "https://mega.nz/file/kQtR2JBB#7PjSVlVcH7gaj2vjPF4-1U-kq49FTrdxmNfCzHv-S60"
+      "pak_url": "https://mega.nz/file/4REknBKD#hJgVM68nZrYrXnNaTsCqUvo8MHVyNe76ZJVB6HTC_EI",
+      "zip_url": "https://mega.nz/file/0FUBSKqS#K6sOZcsZkOWn9yGNzsKGd_JfPIWHT8NYI37XjFMS1c8"
     }
   }
 }
