@@ -4,7 +4,7 @@
   "zip_url": "https://archive.org/download/sandbox-ui-20261114/SandboxUI-20261114.zip",
   "hosts": {
     "gdrive": {
-      "pak_url": "",
+      "pak_url": "https://drive.google.com/file/d/1wgyEePNOIhjzqETC0cEYqz8ipb5bFGS3/view?usp=sharing",
       "zip_url": "https://drive.google.com/file/d/142QP4vII7lelrUP9cQIX-Ew1ia78y_7C/view?usp=sharing"
     },
     "mega": {
